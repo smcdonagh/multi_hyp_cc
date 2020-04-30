@@ -6,5 +6,7 @@
 
 ![candidate_selection](candidate_selection.png)
 
-CVPR2020 Paper: [here](https://www.google.com "A Multi-Hypothesis Approach to Color Constancy paper")
-Code: [here](https://www.google.com "A Multi-Hypothesis Approach to Color Constancy code")
+CVPR2020 Paper: [here](https://arxiv.org/abs/2002.12896 "A Multi-Hypothesis Approach to Color Constancy paper")
+
+
+Code: [here](https://github.com/huawei-noah/multihyp_awb "A Multi-Hypothesis Approach to Color Constancy code")
