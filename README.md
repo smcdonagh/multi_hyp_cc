@@ -9,4 +9,4 @@
 CVPR2020 Paper: [here](https://arxiv.org/abs/2002.12896 "A Multi-Hypothesis Approach to Color Constancy paper")
 
 
-Code: [here](https://github.com/huawei-noah/multihyp_awb "A Multi-Hypothesis Approach to Color Constancy code")
+Code: [here](https://github.com/huawei-noah/multi_hyp_cc "A Multi-Hypothesis Approach to Color Constancy code")
