@@ -14,4 +14,4 @@
 
 **Noah Github Code:** [here](https://github.com/huawei-noah/multi_hyp_cc "A Multi-Hypothesis Approach to Color Constancy code") (soon)
 
-[![A Multi-Hypothesis Approach to Color Constancy Video](https://youtu.be/3NjLnmFyXwI/0.jpg)](https://youtu.be/3NjLnmFyXwI)
+[![A Multi-Hypothesis Approach to Color Constancy Video](06066-youtube.png)](https://youtu.be/3NjLnmFyXwI)
