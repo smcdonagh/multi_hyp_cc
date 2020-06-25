@@ -14,6 +14,6 @@
 
 **CVPR2020 Poster:** [here](https://github.com/smcdonagh/multi_hyp_cc/blob/master/06066-poster.pdf "A Multi-Hypothesis Approach to Color Constancy poster")
 
-**Noah Github Code:** [here](https://github.com/huawei-noah/multi_hyp_cc "A Multi-Hypothesis Approach to Color Constancy code") (soon)
+**Noah Github Code:** [here](https://github.com/huawei-noah/multi_hyp_cc "A Multi-Hypothesis Approach to Color Constancy code")
 
 [![A Multi-Hypothesis Approach to Color Constancy Video](06066-youtube.png)](https://youtu.be/3NjLnmFyXwI)
